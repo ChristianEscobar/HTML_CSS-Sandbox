@@ -1,0 +1,7 @@
+.centerTextInDiv {
+	background-color: yellow;
+	width: 350px;
+	height: 200px;
+	text-align: center; /* horizontal center */
+	line-height: 200px;
+}
