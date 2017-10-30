@@ -1,0 +1,10 @@
+.icon {
+	width: 60px;
+	height: 60px;
+	display: block;
+	background: url('file:../images/github_icon_normal.png') no-repeat;
+}
+
+.icon:hover {
+	background-image: url('../images/github_icon_hover.png');
+}
